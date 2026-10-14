@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   veille:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # version figée : évite les changements d'image imprévus (Chrome, ffmpeg)
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
