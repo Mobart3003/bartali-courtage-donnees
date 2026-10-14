@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-10-14T11:22:20.662Z",
- "donneesDu": "2026-10-13",
+ "genereLe": "2026-10-14T11:23:38.472Z",
+ "donneesDu": "2026-10-14",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -28,6 +28,13 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-10-14",
+   "titre": "Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A19057",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Location"
+  },
   {
    "date": "2026-10-12",
    "titre": "Un nouveau simulateur pour identifier les solutions de chauffage renouvelable adaptées à votre logement",
