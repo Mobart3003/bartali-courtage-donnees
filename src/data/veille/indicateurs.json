@@ -1,0 +1,50 @@
+{
+  "tauxMoyen": {
+    "valeur": 3.32,
+    "periode": "2026-08",
+    "relais": 3.79,
+    "historique": [
+      {
+        "periode": "2025-08",
+        "valeur": 3.1
+      },
+      {
+        "periode": "2026-06",
+        "valeur": 3.27
+      },
+      {
+        "periode": "2026-07",
+        "valeur": 3.3
+      },
+      {
+        "periode": "2026-08",
+        "valeur": 3.32
+      }
+    ],
+    "source": "Banque de France — Crédits aux particuliers",
+    "sourceUrl": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-08",
+    "detecteLe": "2026-10-13"
+  },
+  "usure": {
+    "applicableDepuis": "2026-10-01",
+    "vingtAnsEtPlus": {
+      "tem": 4.05,
+      "usure": 5.4
+    },
+    "dixAVingtAns": {
+      "tem": 3.51,
+      "usure": 4.68
+    },
+    "source": "Banque de France — Taux d'usure",
+    "sourceUrl": "https://www.banque-france.fr/fr/statistiques/taux-et-cours/taux-dusure-2026-q4",
+    "detecteLe": "2026-10-13"
+  },
+  "bce": {
+    "valeur": 2.5,
+    "observeLe": "2026-10-13",
+    "depuis": "2026-09-16",
+    "source": "Banque centrale européenne — taux de la facilité de dépôt",
+    "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.fr.html",
+    "detecteLe": "2026-10-13"
+  }
+}

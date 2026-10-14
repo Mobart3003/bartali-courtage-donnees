@@ -1,0 +1,14 @@
+{
+  "_comment": "Mis à jour automatiquement par outils/veille/veille.mjs à partir de la publication mensuelle de la Banque de France. Seul indicativeMortgageRate est utilisé (simulateur et exemples des pages villes).",
+  "generatedAt": "2026-10-13T19:13:32.365Z",
+  "generatedAtParis": "2026-10-13T02:00:00+02:00",
+  "indicativeMortgageRate": {
+    "value": 3.32,
+    "label": "Taux moyen indicatif (marché, hors assurance)",
+    "date": "2026-08-31",
+    "periodLabel": "août 2026",
+    "source": "Banque de France — Crédits aux particuliers (taux des crédits nouveaux à l'habitat, hors renégociations)",
+    "sourceUrl": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-08"
+  },
+  "items": []
+}

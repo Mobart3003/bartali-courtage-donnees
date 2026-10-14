@@ -1,0 +1,53 @@
+{
+ "version": 1,
+ "genereLe": "2026-10-14T08:22:44.014Z",
+ "donneesDu": "2026-10-13",
+ "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
+ "indicateurs": {
+  "tauxMoyen": {
+   "valeur": 3.32,
+   "relais": 3.79,
+   "periode": "2026-08",
+   "periodeLibelle": "août 2026",
+   "sourceUrl": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-08",
+   "expire": "2026-12-09"
+  },
+  "usure": {
+   "vingtAnsEtPlus": 5.4,
+   "dixAVingtAns": 4.68,
+   "applicableDepuis": "2026-10-01",
+   "sourceUrl": "https://www.banque-france.fr/fr/statistiques/taux-et-cours/taux-dusure-2026-q4",
+   "expire": "2026-12-31"
+  },
+  "bce": {
+   "valeur": 2.5,
+   "depuis": "2026-09-16",
+   "observeLe": "2026-10-13",
+   "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.fr.html",
+   "expire": "2026-11-03"
+  }
+ },
+ "actualites": [
+  {
+   "date": "2026-10-12",
+   "titre": "Un nouveau simulateur pour identifier les solutions de chauffage renouvelable adaptées à votre logement",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A19092",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Logement"
+  },
+  {
+   "date": "2026-09-30",
+   "titre": "Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A17054",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Financement"
+  },
+  {
+   "date": "2026-09-22",
+   "titre": "Taxe foncière 2026 : quelle est la date limite pour payer ?",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A15144",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Achat et fiscalité"
+  }
+ ]
+}

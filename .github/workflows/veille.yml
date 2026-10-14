@@ -1,0 +1,54 @@
+# Veille officielle quotidienne → veille.json publié par GitHub Pages (HTTPS), lu par bartali-courtage.fr.
+# Dépôt PUBLIC : uniquement du code de collecte et des données officielles publiques. Aucun secret.
+# Arrêt : Actions → « Veille officielle » → Disable workflow (le site garde alors ses données intégrées,
+# qui disparaissent d'elles-mêmes à expiration).
+name: Veille officielle
+
+on:
+  schedule:
+    - cron: '20 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: 24
+      - name: Tests des analyseurs (sur instantanés réels des sources)
+        run: node --test "tests/*.test.mjs"
+      - name: Collecte des sources officielles
+        id: veille
+        run: node outils/veille/veille.mjs
+      - name: Export public
+        run: node outils/veille/exporter-public.mjs .
+      - name: Vérifier le fichier exporté
+        run: node -e "const d=require('./veille.json'); if(d.version!==1||!d.donneesDu) process.exit(1); console.log('veille.json valide :', Object.keys(d.indicateurs).join(', '), '·', d.actualites.length, 'actualités')"
+      - name: Enregistrer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "Veille Bartali Courtage"
+          git config user.email "actions@users.noreply.github.com"
+          git add veille.json src suivi
+          git diff --cached --quiet && exit 0
+          git commit -m "veille : $(date -u +%F)"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push origin HEAD:${GITHUB_REF_NAME}
+      - name: Alerte si une source échoue depuis 3 jours
+        if: steps.veille.outputs.alerte == 'true'
+        run: |
+          echo "::error::Une source officielle échoue depuis au moins 3 exécutions (suivi/veille/etat.json)"
+          exit 1
