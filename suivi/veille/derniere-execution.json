@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-14",
-  "debut": "2026-10-14T11:23:33.989Z",
+  "date": "2026-10-15",
+  "debut": "2026-10-15T05:47:05.001Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,10 +9,8 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [
-    "2026-10-14 · Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent"
-  ],
-  "changements": true,
+  "nouveautes": [],
+  "changements": false,
   "alerte": false,
-  "fin": "2026-10-14T11:23:38.408Z"
+  "fin": "2026-10-15T05:47:11.014Z"
 }
