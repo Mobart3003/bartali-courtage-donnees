@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-10-15T05:47:11.078Z",
- "donneesDu": "2026-10-14",
+ "genereLe": "2026-10-16T05:46:30.806Z",
+ "donneesDu": "2026-10-16",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -28,6 +28,20 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-10-16",
+   "titre": "Usage exclusif d’une partie commune : qui doit indemniser en cas de dégât ?",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A19096",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Logement"
+  },
+  {
+   "date": "2026-10-15",
+   "titre": "Le nouvel indice de référence des loyers vient de paraître",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A17342",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Location"
+  },
   {
    "date": "2026-10-14",
    "titre": "Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent",
