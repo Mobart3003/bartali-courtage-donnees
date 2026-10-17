@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "debut": "2026-10-16T05:46:25.348Z",
+  "date": "2026-10-17",
+  "debut": "2026-10-17T05:44:13.458Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,11 +9,8 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [
-    "2026-10-16 · Usage exclusif d’une partie commune : qui doit indemniser en cas de dégât ?",
-    "2026-10-15 · Le nouvel indice de référence des loyers vient de paraître"
-  ],
-  "changements": true,
+  "nouveautes": [],
+  "changements": false,
   "alerte": false,
-  "fin": "2026-10-16T05:46:30.751Z"
+  "fin": "2026-10-17T05:44:23.012Z"
 }
