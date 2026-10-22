@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-21",
-  "debut": "2026-10-21T05:46:58.406Z",
+  "date": "2026-10-22",
+  "debut": "2026-10-22T05:46:58.414Z",
   "sources": {
-    "tauxMoyen": "ok",
-    "usure": "ok",
+    "tauxMoyen": "échec : tableau des taux introuvable",
+    "usure": "échec : date d'application introuvable",
     "bce": "ok",
     "service-public": "ok",
     "service-public-liste": "ok",
@@ -12,5 +12,5 @@
   "nouveautes": [],
   "changements": false,
   "alerte": false,
-  "fin": "2026-10-21T05:47:03.457Z"
+  "fin": "2026-10-22T05:47:02.014Z"
 }
