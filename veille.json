@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-10-22T05:47:02.077Z",
- "donneesDu": "2026-10-16",
+ "genereLe": "2026-10-23T05:47:24.891Z",
+ "donneesDu": "2026-10-23",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -28,6 +28,13 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-10-22",
+   "titre": "De nouveaux modèles de bail et une notice d'information actualisée",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A19067",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Location"
+  },
   {
    "date": "2026-10-16",
    "titre": "Usage exclusif d’une partie commune : qui doit indemniser en cas de dégât ?",

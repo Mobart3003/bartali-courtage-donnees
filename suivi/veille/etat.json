@@ -1,33 +1,29 @@
 {
   "sources": {
     "tauxMoyen": {
-      "dernierSucces": "2026-10-21",
-      "echecsConsecutifs": 1,
-      "derniereErreur": "tableau des taux introuvable",
-      "derniereErreurLe": "2026-10-22"
+      "dernierSucces": "2026-10-23",
+      "echecsConsecutifs": 0
     },
     "usure": {
-      "dernierSucces": "2026-10-21",
-      "echecsConsecutifs": 1,
-      "derniereErreur": "date d'application introuvable",
-      "derniereErreurLe": "2026-10-22"
+      "dernierSucces": "2026-10-23",
+      "echecsConsecutifs": 0
     },
     "bce": {
-      "dernierSucces": "2026-10-22",
+      "dernierSucces": "2026-10-23",
       "echecsConsecutifs": 0
     },
     "service-public": {
-      "dernierSucces": "2026-10-22",
+      "dernierSucces": "2026-10-23",
       "echecsConsecutifs": 0
     },
     "economie-gouv": {
-      "dernierSucces": "2026-10-22",
+      "dernierSucces": "2026-10-23",
       "echecsConsecutifs": 0
     },
     "service-public-liste": {
-      "dernierSucces": "2026-10-22",
+      "dernierSucces": "2026-10-23",
       "echecsConsecutifs": 0
     }
   },
-  "derniereExecution": "2026-10-22T05:47:02.014Z"
+  "derniereExecution": "2026-10-23T05:47:24.842Z"
 }
