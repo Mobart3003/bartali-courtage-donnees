@@ -1,4 +1,4 @@
-# Veille officielle quotidienne → veille.json publié par GitHub Pages (HTTPS), lu par bartali-courtage.fr.
+# Veille officielle deux fois par jour (matin et fin d'après-midi) → veille.json publié par GitHub Pages (HTTPS), lu par bartali-courtage.fr.
 # Dépôt PUBLIC : uniquement du code de collecte et des données officielles publiques. Aucun secret.
 # Arrêt : Actions → « Veille officielle » → Disable workflow (le site garde alors ses données intégrées,
 # qui disparaissent d'elles-mêmes à expiration).
@@ -6,7 +6,8 @@ name: Veille officielle
 
 on:
   schedule:
-    - cron: '20 5 * * *'
+    - cron: '20 5 * * *'    # vers 7 h 20, heure de Paris en été
+    - cron: '20 15 * * *'   # vers 17 h 20 : actualités officielles de la journée (décision du 24/10/2026)
   workflow_dispatch:
 
 permissions:
