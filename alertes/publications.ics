@@ -8,12 +8,32 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:accord-de-principe-offre-de-pret@bartali-courtage.fr
+DTSTAMP:20261024T124538Z
+DTSTART:20261024T134500Z
+DTEND:20261024T140000Z
+SUMMARY:Guide du site : Accord de principe ou offre de prêt : ce qui engag
+ e la banque
+DESCRIPTION:Mise en ligne prévue à 15 h 45 : « Accord de principe ou off
+ re de prêt : ce qui engage la banque ».\nAdresse : https://bartali-court
+ age.fr/accord-de-principe-offre-de-pret.html\nUne remarque ? Signalez-la a
+ vant l'heure prévue : la mise en ligne attendra.
+URL:https://bartali-courtage.fr/accord-de-principe-offre-de-pret.html
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans 2 h : « Accord de principe ou offre de prêt : ce qui eng
+ age la banque »
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pret-immobilier-sans-apport@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261025T080000Z
-DTEND:20261025T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261025T075400Z
+DTEND:20261025T080900Z
 SUMMARY:Guide du site : Emprunter sans apport en 2026 : est-ce possible ?
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Emprunter sans apport en 
+DESCRIPTION:Mise en ligne prévue à 08 h 54 : « Emprunter sans apport en 
  2026 : est-ce possible ? ».\nAdresse : https://bartali-courtage.fr/pret-i
  mmobilier-sans-apport.html\nUne remarque ? Signalez-la avant l'heure prév
  ue : la mise en ligne attendra.
@@ -25,21 +45,15 @@ DESCRIPTION:Dans 2 h : « Emprunter sans apport en 2026 : est-ce possible ?
   »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Emprunter sans apport en 2026 : est-ce possible ?
-  »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:combien-emprunter-selon-salaire@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261025T140000Z
-DTEND:20261025T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261025T141200Z
+DTEND:20261025T142700Z
 SUMMARY:Guide du site : Combien emprunter avec 2 000\, 3 000 ou 4 000 € p
  ar mois ?
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Combien emprunter avec 2 
+DESCRIPTION:Mise en ligne prévue à 15 h 12 : « Combien emprunter avec 2 
  000\, 3 000 ou 4 000 € par mois ? ».\nAdresse : https://bartali-courtag
  e.fr/combien-emprunter-selon-salaire.html\nUne remarque ? Signalez-la avan
  t l'heure prévue : la mise en ligne attendra.
@@ -51,21 +65,15 @@ DESCRIPTION:Dans 2 h : « Combien emprunter avec 2 000\, 3 000 ou 4 000 €
   par mois ? »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Combien emprunter avec 2 000\, 3 000 ou 4 000 €
-  par mois ? »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taux-immobilier-octobre-2026@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261026T080000Z
-DTEND:20261026T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261026T081700Z
+DTEND:20261026T083200Z
 SUMMARY:Guide du site : Taux immobilier en octobre 2026 : les chiffres offi
  ciels commentés
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Taux immobilier en octobr
+DESCRIPTION:Mise en ligne prévue à 09 h 17 : « Taux immobilier en octobr
  e 2026 : les chiffres officiels commentés ».\nAdresse : https://bartali-
  courtage.fr/taux-immobilier-octobre-2026.html\nUne remarque ? Signalez-la 
  avant l'heure prévue : la mise en ligne attendra.
@@ -77,20 +85,14 @@ DESCRIPTION:Dans 2 h : « Taux immobilier en octobre 2026 : les chiffres of
  ficiels commentés »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Taux immobilier en octobre 2026 : les chiffres of
- ficiels commentés »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:emprunter-apres-50-ans@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261026T140000Z
-DTEND:20261026T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261026T134100Z
+DTEND:20261026T135600Z
 SUMMARY:Guide du site : Emprunter après 50\, 60 ou 70 ans
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Emprunter après 50\, 60 
+DESCRIPTION:Mise en ligne prévue à 14 h 41 : « Emprunter après 50\, 60 
  ou 70 ans ».\nAdresse : https://bartali-courtage.fr/emprunter-apres-50-an
  s.html\nUne remarque ? Signalez-la avant l'heure prévue : la mise en lign
  e attendra.
@@ -101,20 +103,15 @@ ACTION:DISPLAY
 DESCRIPTION:Dans 2 h : « Emprunter après 50\, 60 ou 70 ans »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Emprunter après 50\, 60 ou 70 ans »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pret-immobilier-cdd-interim@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261027T080000Z
-DTEND:20261027T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261027T073600Z
+DTEND:20261027T075100Z
 SUMMARY:Guide du site : Prêt immobilier en CDD\, en intérim ou contractue
  l
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Prêt immobilier en CDD\,
+DESCRIPTION:Mise en ligne prévue à 08 h 36 : « Prêt immobilier en CDD\,
   en intérim ou contractuel ».\nAdresse : https://bartali-courtage.fr/pre
  t-immobilier-cdd-interim.html\nUne remarque ? Signalez-la avant l'heure pr
  évue : la mise en ligne attendra.
@@ -126,21 +123,15 @@ DESCRIPTION:Dans 2 h : « Prêt immobilier en CDD\, en intérim ou contract
  uel »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Prêt immobilier en CDD\, en intérim ou contract
- uel »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:refus-pret-immobilier@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261027T140000Z
-DTEND:20261027T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261027T142600Z
+DTEND:20261027T144100Z
 SUMMARY:Guide du site : Refus de prêt immobilier : causes\, délais et sol
  utions
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Refus de prêt immobilier
+DESCRIPTION:Mise en ligne prévue à 15 h 26 : « Refus de prêt immobilier
   : causes\, délais et solutions ».\nAdresse : https://bartali-courtage.f
  r/refus-pret-immobilier.html\nUne remarque ? Signalez-la avant l'heure pr
  évue : la mise en ligne attendra.
@@ -152,21 +143,15 @@ DESCRIPTION:Dans 2 h : « Refus de prêt immobilier : causes\, délais et s
  olutions »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Refus de prêt immobilier : causes\, délais et s
- olutions »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:delai-pret-immobilier-apres-compromis@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261028T080000Z
-DTEND:20261028T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261028T080800Z
+DTEND:20261028T082300Z
 SUMMARY:Guide du site : Délai du prêt immobilier après le compromis : le
   calendrier
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Délai du prêt immobilie
+DESCRIPTION:Mise en ligne prévue à 09 h 08 : « Délai du prêt immobilie
  r après le compromis : le calendrier ».\nAdresse : https://bartali-court
  age.fr/delai-pret-immobilier-apres-compromis.html\nUne remarque ? Signalez
  -la avant l'heure prévue : la mise en ligne attendra.
@@ -178,20 +163,14 @@ DESCRIPTION:Dans 2 h : « Délai du prêt immobilier après le compromis :
  le calendrier »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Délai du prêt immobilier après le compromis : 
- le calendrier »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:emprunter-seul@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261028T140000Z
-DTEND:20261028T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261028T135300Z
+DTEND:20261028T140800Z
 SUMMARY:Guide du site : Emprunter seul : marié\, pacsé ou célibataire
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Emprunter seul : marié\,
+DESCRIPTION:Mise en ligne prévue à 14 h 53 : « Emprunter seul : marié\,
   pacsé ou célibataire ».\nAdresse : https://bartali-courtage.fr/emprunt
  er-seul.html\nUne remarque ? Signalez-la avant l'heure prévue : la mise e
  n ligne attendra.
@@ -203,20 +182,14 @@ DESCRIPTION:Dans 2 h : « Emprunter seul : marié\, pacsé ou célibataire
  »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Emprunter seul : marié\, pacsé ou célibataire 
- »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taux-endettement-trop-eleve@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261029T080000Z
-DTEND:20261029T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261029T074700Z
+DTEND:20261029T080200Z
 SUMMARY:Guide du site : Taux d'endettement trop élevé : que faire ?
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Taux d'endettement trop 
+DESCRIPTION:Mise en ligne prévue à 08 h 47 : « Taux d'endettement trop 
  élevé : que faire ? ».\nAdresse : https://bartali-courtage.fr/taux-ende
  ttement-trop-eleve.html\nUne remarque ? Signalez-la avant l'heure prévue 
  : la mise en ligne attendra.
@@ -227,20 +200,15 @@ ACTION:DISPLAY
 DESCRIPTION:Dans 2 h : « Taux d'endettement trop élevé : que faire ? »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Taux d'endettement trop élevé : que faire ? »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:assurance-pret-50-ou-100@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261029T140000Z
-DTEND:20261029T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261029T140400Z
+DTEND:20261029T141900Z
 SUMMARY:Guide du site : Assurance de prêt à deux : 50 % ou 100 % par têt
  e ?
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Assurance de prêt à deu
+DESCRIPTION:Mise en ligne prévue à 15 h 04 : « Assurance de prêt à deu
  x : 50 % ou 100 % par tête ? ».\nAdresse : https://bartali-courtage.fr/a
  ssurance-pret-50-ou-100.html\nUne remarque ? Signalez-la avant l'heure pr
  évue : la mise en ligne attendra.
@@ -252,20 +220,14 @@ DESCRIPTION:Dans 2 h : « Assurance de prêt à deux : 50 % ou 100 % par t
  ête ? »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Assurance de prêt à deux : 50 % ou 100 % par t
- ête ? »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pret-immobilier-sci@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261030T080000Z
-DTEND:20261030T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261030T082300Z
+DTEND:20261030T083800Z
 SUMMARY:Guide du site : Acheter avec une SCI : ce que regarde la banque
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Acheter avec une SCI : ce
+DESCRIPTION:Mise en ligne prévue à 09 h 23 : « Acheter avec une SCI : ce
   que regarde la banque ».\nAdresse : https://bartali-courtage.fr/pret-imm
  obilier-sci.html\nUne remarque ? Signalez-la avant l'heure prévue : la mi
  se en ligne attendra.
@@ -277,20 +239,14 @@ DESCRIPTION:Dans 2 h : « Acheter avec une SCI : ce que regarde la banque
  »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Acheter avec une SCI : ce que regarde la banque 
- »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taux-usure-credit-immobilier@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261030T140000Z
-DTEND:20261030T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261030T133500Z
+DTEND:20261030T135000Z
 SUMMARY:Guide du site : Taux d'usure : ce qu'il change pour votre prêt
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Taux d'usure : ce qu'il c
+DESCRIPTION:Mise en ligne prévue à 14 h 35 : « Taux d'usure : ce qu'il c
  hange pour votre prêt ».\nAdresse : https://bartali-courtage.fr/taux-usu
  re-credit-immobilier.html\nUne remarque ? Signalez-la avant l'heure prévu
  e : la mise en ligne attendra.
@@ -302,21 +258,15 @@ DESCRIPTION:Dans 2 h : « Taux d'usure : ce qu'il change pour votre prêt
  »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Taux d'usure : ce qu'il change pour votre prêt 
- »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:emprunter-probleme-sante-aeras@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261031T080000Z
-DTEND:20261031T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261031T074100Z
+DTEND:20261031T075600Z
 SUMMARY:Guide du site : Emprunter avec un problème de santé : la conventi
  on AERAS
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Emprunter avec un problè
+DESCRIPTION:Mise en ligne prévue à 08 h 41 : « Emprunter avec un problè
  me de santé : la convention AERAS ».\nAdresse : https://bartali-courtage
  .fr/emprunter-probleme-sante-aeras.html\nUne remarque ? Signalez-la avant 
  l'heure prévue : la mise en ligne attendra.
@@ -328,21 +278,15 @@ DESCRIPTION:Dans 2 h : « Emprunter avec un problème de santé : la conven
  tion AERAS »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Emprunter avec un problème de santé : la conven
- tion AERAS »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pret-immobilier-fonctionnaire@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261031T140000Z
-DTEND:20261031T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261031T141900Z
+DTEND:20261031T143400Z
 SUMMARY:Guide du site : Prêt immobilier des fonctionnaires : ce qui change
   vraiment
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Prêt immobilier des fonc
+DESCRIPTION:Mise en ligne prévue à 15 h 19 : « Prêt immobilier des fonc
  tionnaires : ce qui change vraiment ».\nAdresse : https://bartali-courtag
  e.fr/pret-immobilier-fonctionnaire.html\nUne remarque ? Signalez-la avant 
  l'heure prévue : la mise en ligne attendra.
@@ -354,20 +298,14 @@ DESCRIPTION:Dans 2 h : « Prêt immobilier des fonctionnaires : ce qui chan
  ge vraiment »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Prêt immobilier des fonctionnaires : ce qui chan
- ge vraiment »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:duree-pret-immobilier@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261101T080000Z
-DTEND:20261101T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261101T080200Z
+DTEND:20261101T081700Z
 SUMMARY:Guide du site : Durée du prêt : 20\, 25 ou 27 ans ?
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Durée du prêt : 20\, 25
+DESCRIPTION:Mise en ligne prévue à 09 h 02 : « Durée du prêt : 20\, 25
   ou 27 ans ? ».\nAdresse : https://bartali-courtage.fr/duree-pret-immobil
  ier.html\nUne remarque ? Signalez-la avant l'heure prévue : la mise en li
  gne attendra.
@@ -378,20 +316,15 @@ ACTION:DISPLAY
 DESCRIPTION:Dans 2 h : « Durée du prêt : 20\, 25 ou 27 ans ? »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Durée du prêt : 20\, 25 ou 27 ans ? »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acheter-appartement-nice-budget@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261101T140000Z
-DTEND:20261101T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261101T134800Z
+DTEND:20261101T140300Z
 SUMMARY:Guide du site : Acheter un appartement à Nice : quel budget\, quel
   prêt ?
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Acheter un appartement à
+DESCRIPTION:Mise en ligne prévue à 14 h 48 : « Acheter un appartement à
   Nice : quel budget\, quel prêt ? ».\nAdresse : https://bartali-courtage
  .fr/acheter-appartement-nice-budget.html\nUne remarque ? Signalez-la avant
   l'heure prévue : la mise en ligne attendra.
@@ -403,20 +336,14 @@ DESCRIPTION:Dans 2 h : « Acheter un appartement à Nice : quel budget\, qu
  el prêt ? »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Acheter un appartement à Nice : quel budget\, qu
- el prêt ? »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taeg-cout-total-credit@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261102T080000Z
-DTEND:20261102T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261102T075800Z
+DTEND:20261102T081300Z
 SUMMARY:Guide du site : TAEG : lire le coût total de votre crédit
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « TAEG : lire le coût tota
+DESCRIPTION:Mise en ligne prévue à 08 h 58 : « TAEG : lire le coût tota
  l de votre crédit ».\nAdresse : https://bartali-courtage.fr/taeg-cout-to
  tal-credit.html\nUne remarque ? Signalez-la avant l'heure prévue : la mis
  e en ligne attendra.
@@ -427,19 +354,14 @@ ACTION:DISPLAY
 DESCRIPTION:Dans 2 h : « TAEG : lire le coût total de votre crédit »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « TAEG : lire le coût total de votre crédit »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acheter-ou-louer-nice@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261102T140000Z
-DTEND:20261102T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261102T142900Z
+DTEND:20261102T144400Z
 SUMMARY:Guide du site : Acheter ou louer à Nice : faire le calcul
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Acheter ou louer à Nice 
+DESCRIPTION:Mise en ligne prévue à 15 h 29 : « Acheter ou louer à Nice 
  : faire le calcul ».\nAdresse : https://bartali-courtage.fr/acheter-ou-lo
  uer-nice.html\nUne remarque ? Signalez-la avant l'heure prévue : la mise 
  en ligne attendra.
@@ -450,19 +372,14 @@ ACTION:DISPLAY
 DESCRIPTION:Dans 2 h : « Acheter ou louer à Nice : faire le calcul »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Acheter ou louer à Nice : faire le calcul »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:caution-ou-hypotheque@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261103T080000Z
-DTEND:20261103T081500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261103T081200Z
+DTEND:20261103T082700Z
 SUMMARY:Guide du site : Caution ou hypothèque : la garantie de votre prêt
-DESCRIPTION:Mise en ligne prévue à 09 h 00 : « Caution ou hypothèque : 
+DESCRIPTION:Mise en ligne prévue à 09 h 12 : « Caution ou hypothèque : 
  la garantie de votre prêt ».\nAdresse : https://bartali-courtage.fr/caut
  ion-ou-hypotheque.html\nUne remarque ? Signalez-la avant l'heure prévue :
   la mise en ligne attendra.
@@ -474,21 +391,15 @@ DESCRIPTION:Dans 2 h : « Caution ou hypothèque : la garantie de votre pr
  êt »
 TRIGGER:-PT120M
 END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Caution ou hypothèque : la garantie de votre pr
- êt »
-TRIGGER:-PT60M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bon-moment-acheter-cote-azur@bartali-courtage.fr
-DTSTAMP:20261024T122257Z
-DTSTART:20261103T140000Z
-DTEND:20261103T141500Z
+DTSTAMP:20261024T124538Z
+DTSTART:20261103T133900Z
+DTEND:20261103T135400Z
 SUMMARY:Guide du site : Est-ce le bon moment pour acheter sur la Côte d'Az
  ur ?
-DESCRIPTION:Mise en ligne prévue à 15 h 00 : « Est-ce le bon moment pour
+DESCRIPTION:Mise en ligne prévue à 14 h 39 : « Est-ce le bon moment pour
   acheter sur la Côte d'Azur ? ».\nAdresse : https://bartali-courtage.fr/
  bon-moment-acheter-cote-azur.html\nUne remarque ? Signalez-la avant l'heur
  e prévue : la mise en ligne attendra.
@@ -499,12 +410,6 @@ ACTION:DISPLAY
 DESCRIPTION:Dans 2 h : « Est-ce le bon moment pour acheter sur la Côte d'
  Azur ? »
 TRIGGER:-PT120M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 1 h : « Est-ce le bon moment pour acheter sur la Côte d'
- Azur ? »
-TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
