@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "debut": "2026-10-23T05:47:17.396Z",
+  "date": "2026-10-24",
+  "debut": "2026-10-24T05:46:56.484Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,10 +9,8 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [
-    "2026-10-22 · De nouveaux modèles de bail et une notice d'information actualisée"
-  ],
-  "changements": true,
+  "nouveautes": [],
+  "changements": false,
   "alerte": false,
-  "fin": "2026-10-23T05:47:24.842Z"
+  "fin": "2026-10-24T05:47:03.918Z"
 }
