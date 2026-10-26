@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-25",
-  "debut": "2026-10-25T15:49:57.318Z",
+  "date": "2026-10-26",
+  "debut": "2026-10-26T05:50:56.506Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -12,5 +12,5 @@
   "nouveautes": [],
   "changements": false,
   "alerte": false,
-  "fin": "2026-10-25T15:50:07.161Z"
+  "fin": "2026-10-26T05:51:02.796Z"
 }
