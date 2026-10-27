@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:accord-de-principe-offre-de-pret@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261024T134500Z
 DTEND:20261024T140000Z
 SUMMARY:Guide du site : Accord de principe ou offre de prêt : ce qui engag
@@ -23,7 +23,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pret-immobilier-sans-apport@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261025T075400Z
 DTEND:20261025T080900Z
 SUMMARY:Guide du site : Emprunter sans apport en 2026 : est-ce possible ?
@@ -36,7 +36,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:combien-emprunter-selon-salaire@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261025T141200Z
 DTEND:20261025T142700Z
 SUMMARY:Guide du site : Combien emprunter avec 2 000\, 3 000 ou 4 000 € p
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taux-immobilier-octobre-2026@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261026T081700Z
 DTEND:20261026T083200Z
 SUMMARY:Guide du site : Taux immobilier en octobre 2026 : les chiffres offi
@@ -70,7 +70,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:emprunter-apres-50-ans@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261026T134100Z
 DTEND:20261026T135600Z
 SUMMARY:Guide du site : Emprunter après 50\, 60 ou 70 ans
@@ -82,27 +82,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pret-immobilier-cdd-interim@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261027T073600Z
 DTEND:20261027T075100Z
 SUMMARY:Guide du site : Prêt immobilier en CDD\, en intérim ou contractue
  l
-DESCRIPTION:Mise en ligne prévue à 08 h 36 : « Prêt immobilier en CDD\,
-  en intérim ou contractuel ».\nAdresse : https://bartali-courtage.fr/pre
- t-immobilier-cdd-interim.html\nUne remarque ? Signalez-la avant l'heure pr
- évue : la mise en ligne attendra.
+DESCRIPTION:Publié à 08 h 36 : « Prêt immobilier en CDD\, en intérim o
+ u contractuel ».\nAdresse : https://bartali-courtage.fr/pret-immobilier-c
+ dd-interim.html\nUne remarque ? Signalez-la avant l'heure prévue : la mis
+ e en ligne attendra.
 URL:https://bartali-courtage.fr/pret-immobilier-cdd-interim.html
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dans 2 h : « Prêt immobilier en CDD\, en intérim ou contract
- uel »
-TRIGGER:-PT120M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:refus-pret-immobilier@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261027T142600Z
 DTEND:20261027T144100Z
 SUMMARY:Guide du site : Refus de prêt immobilier : causes\, délais et sol
@@ -122,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:delai-pret-immobilier-apres-compromis@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261028T080800Z
 DTEND:20261028T082300Z
 SUMMARY:Guide du site : Délai du prêt immobilier après le compromis : le
@@ -142,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:emprunter-seul@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261028T135300Z
 DTEND:20261028T140800Z
 SUMMARY:Guide du site : Emprunter seul : marié\, pacsé ou célibataire
@@ -161,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taux-endettement-trop-eleve@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261029T074700Z
 DTEND:20261029T080200Z
 SUMMARY:Guide du site : Taux d'endettement trop élevé : que faire ?
@@ -179,7 +173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:assurance-pret-50-ou-100@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261029T140400Z
 DTEND:20261029T141900Z
 SUMMARY:Guide du site : Assurance de prêt à deux : 50 % ou 100 % par têt
@@ -199,7 +193,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pret-immobilier-sci@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261030T082300Z
 DTEND:20261030T083800Z
 SUMMARY:Guide du site : Acheter avec une SCI : ce que regarde la banque
@@ -218,7 +212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taux-usure-credit-immobilier@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261030T133500Z
 DTEND:20261030T135000Z
 SUMMARY:Guide du site : Taux d'usure : ce qu'il change pour votre prêt
@@ -237,7 +231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:emprunter-probleme-sante-aeras@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261031T074100Z
 DTEND:20261031T075600Z
 SUMMARY:Guide du site : Emprunter avec un problème de santé : la conventi
@@ -257,7 +251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pret-immobilier-fonctionnaire@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261031T141900Z
 DTEND:20261031T143400Z
 SUMMARY:Guide du site : Prêt immobilier des fonctionnaires : ce qui change
@@ -277,7 +271,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:duree-pret-immobilier@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261101T080200Z
 DTEND:20261101T081700Z
 SUMMARY:Guide du site : Durée du prêt : 20\, 25 ou 27 ans ?
@@ -295,7 +289,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acheter-appartement-nice-budget@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261101T134800Z
 DTEND:20261101T140300Z
 SUMMARY:Guide du site : Acheter un appartement à Nice : quel budget\, quel
@@ -315,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taeg-cout-total-credit@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261102T075800Z
 DTEND:20261102T081300Z
 SUMMARY:Guide du site : TAEG : lire le coût total de votre crédit
@@ -333,7 +327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acheter-ou-louer-nice@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261102T142900Z
 DTEND:20261102T144400Z
 SUMMARY:Guide du site : Acheter ou louer à Nice : faire le calcul
@@ -351,7 +345,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:caution-ou-hypotheque@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261103T081200Z
 DTEND:20261103T082700Z
 SUMMARY:Guide du site : Caution ou hypothèque : la garantie de votre prêt
@@ -370,7 +364,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bon-moment-acheter-cote-azur@bartali-courtage.fr
-DTSTAMP:20261026T174640Z
+DTSTAMP:20261027T073415Z
 DTSTART:20261103T133900Z
 DTEND:20261103T135400Z
 SUMMARY:Guide du site : Est-ce le bon moment pour acheter sur la Côte d'Az
