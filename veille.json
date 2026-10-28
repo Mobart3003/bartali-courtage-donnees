@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-10-27T16:03:30.462Z",
- "donneesDu": "2026-10-23",
+ "genereLe": "2026-10-28T05:56:18.014Z",
+ "donneesDu": "2026-10-28",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -28,6 +28,13 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-10-27",
+   "titre": "Qu’est-ce que la location et l’achat d’une voiture en leasing ?",
+   "lien": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/gerer-mon-budget-et-mon-epargne/quest-ce-que-la-location-et-lachat-dune-voiture-en-leasing",
+   "source": "economie.gouv.fr",
+   "categorie": "Achat et fiscalité"
+  },
   {
    "date": "2026-10-22",
    "titre": "De nouveaux modèles de bail et une notice d'information actualisée",

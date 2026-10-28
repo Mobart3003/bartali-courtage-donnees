@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-27",
-  "debut": "2026-10-27T16:03:23.485Z",
+  "date": "2026-10-28",
+  "debut": "2026-10-28T05:56:11.491Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,8 +9,10 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [],
-  "changements": false,
+  "nouveautes": [
+    "2026-10-27 · Qu’est-ce que la location et l’achat d’une voiture en leasing ?"
+  ],
+  "changements": true,
   "alerte": false,
-  "fin": "2026-10-27T16:03:30.414Z"
+  "fin": "2026-10-28T05:56:17.941Z"
 }
