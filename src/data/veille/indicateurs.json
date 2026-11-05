@@ -1,12 +1,16 @@
 {
   "tauxMoyen": {
     "valeur": 3.32,
-    "periode": "2026-08",
-    "relais": 3.79,
+    "periode": "2026-09",
+    "relais": 3.82,
     "historique": [
       {
         "periode": "2025-08",
         "valeur": 3.1
+      },
+      {
+        "periode": "2025-09",
+        "valeur": 3.09
       },
       {
         "periode": "2026-06",
@@ -19,11 +23,15 @@
       {
         "periode": "2026-08",
         "valeur": 3.32
+      },
+      {
+        "periode": "2026-09",
+        "valeur": 3.32
       }
     ],
     "source": "Banque de France — Crédits aux particuliers",
-    "sourceUrl": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-08",
-    "detecteLe": "2026-10-13"
+    "sourceUrl": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-09",
+    "detecteLe": "2026-11-05"
   },
   "usure": {
     "applicableDepuis": "2026-10-01",

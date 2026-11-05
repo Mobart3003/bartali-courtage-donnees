@@ -1,16 +1,16 @@
 {
  "version": 1,
- "genereLe": "2026-11-05T06:15:31.052Z",
- "donneesDu": "2026-10-28",
+ "genereLe": "2026-11-05T16:23:40.104Z",
+ "donneesDu": "2026-11-05",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
    "valeur": 3.32,
-   "relais": 3.79,
-   "periode": "2026-08",
-   "periodeLibelle": "août 2026",
-   "sourceUrl": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-08",
-   "expire": "2026-12-09"
+   "relais": 3.82,
+   "periode": "2026-09",
+   "periodeLibelle": "septembre 2026",
+   "sourceUrl": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-09",
+   "expire": "2027-01-08"
   },
   "usure": {
    "vingtAnsEtPlus": 5.4,
