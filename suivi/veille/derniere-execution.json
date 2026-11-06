@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "debut": "2026-11-05T16:23:34.311Z",
+  "date": "2026-11-06",
+  "debut": "2026-11-06T06:14:01.478Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -10,7 +10,7 @@
     "economie-gouv": "ok"
   },
   "nouveautes": [],
-  "changements": true,
+  "changements": false,
   "alerte": false,
-  "fin": "2026-11-05T16:23:40.041Z"
+  "fin": "2026-11-06T06:14:09.220Z"
 }
