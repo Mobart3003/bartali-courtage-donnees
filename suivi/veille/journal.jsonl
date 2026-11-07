@@ -44,3 +44,4 @@
 {"date":"2026-11-05","fin":"2026-11-05T16:23:40.041Z","changements":true,"alerte":false,"sources":{"tauxMoyen":"ok","usure":"ok","bce":"ok","service-public":"ok","service-public-liste":"ok","economie-gouv":"ok"},"nouveautes":0}
 {"date":"2026-11-06","fin":"2026-11-06T06:14:09.220Z","changements":false,"alerte":false,"sources":{"tauxMoyen":"ok","usure":"ok","bce":"ok","service-public":"ok","service-public-liste":"ok","economie-gouv":"ok"},"nouveautes":0}
 {"date":"2026-11-06","fin":"2026-11-06T16:07:01.483Z","changements":false,"alerte":false,"sources":{"tauxMoyen":"ok","usure":"ok","bce":"ok","service-public":"ok","service-public-liste":"ok","economie-gouv":"ok"},"nouveautes":0}
+{"date":"2026-11-07","fin":"2026-11-07T05:58:54.909Z","changements":false,"alerte":false,"sources":{"tauxMoyen":"ok","usure":"ok","bce":"ok","service-public":"ok","service-public-liste":"ok","economie-gouv":"ok"},"nouveautes":0}
