@@ -34,7 +34,7 @@
     "detecteLe": "2026-11-05"
   },
   "usure": {
-    "applicableDepuis": "2026-10-01",
+    "applicableDepuis": "2026-11-20",
     "vingtAnsEtPlus": {
       "tem": 4.05,
       "usure": 5.4
@@ -45,7 +45,7 @@
     },
     "source": "Banque de France — Taux d'usure",
     "sourceUrl": "https://www.banque-france.fr/fr/statistiques/taux-et-cours/taux-dusure-2026-q4",
-    "detecteLe": "2026-10-13"
+    "detecteLe": "2026-11-09"
   },
   "bce": {
     "valeur": 2.5,
