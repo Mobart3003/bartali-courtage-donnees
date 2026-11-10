@@ -1,29 +1,29 @@
 {
   "sources": {
     "tauxMoyen": {
-      "dernierSucces": "2026-11-09",
+      "dernierSucces": "2026-11-10",
       "echecsConsecutifs": 0
     },
     "usure": {
-      "dernierSucces": "2026-11-09",
+      "dernierSucces": "2026-11-10",
       "echecsConsecutifs": 0
     },
     "bce": {
-      "dernierSucces": "2026-11-09",
+      "dernierSucces": "2026-11-10",
       "echecsConsecutifs": 0
     },
     "service-public": {
-      "dernierSucces": "2026-11-09",
+      "dernierSucces": "2026-11-10",
       "echecsConsecutifs": 0
     },
     "economie-gouv": {
-      "dernierSucces": "2026-11-09",
+      "dernierSucces": "2026-11-10",
       "echecsConsecutifs": 0
     },
     "service-public-liste": {
-      "dernierSucces": "2026-11-09",
+      "dernierSucces": "2026-11-10",
       "echecsConsecutifs": 0
     }
   },
-  "derniereExecution": "2026-11-09T16:23:17.559Z"
+  "derniereExecution": "2026-11-10T06:06:27.240Z"
 }
