@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-11-12T06:17:10.017Z",
- "donneesDu": "2026-11-09",
+ "genereLe": "2026-11-12T16:23:08.122Z",
+ "donneesDu": "2026-11-12",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -21,6 +21,13 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-11-12",
+   "titre": "France Identité génère un justificatif d'identité utile pour vos démarches administratives",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A17697",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Location"
+  },
   {
    "date": "2026-10-27",
    "titre": "Qu’est-ce que la location et l’achat d’une voiture en leasing ?",
