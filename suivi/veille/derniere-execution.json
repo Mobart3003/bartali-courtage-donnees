@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "debut": "2026-11-12T16:22:59.209Z",
+  "date": "2026-11-13",
+  "debut": "2026-11-13T06:14:35.900Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,10 +9,8 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [
-    "2026-11-12 · France Identité génère un justificatif d'identité utile pour vos démarches administratives"
-  ],
-  "changements": true,
+  "nouveautes": [],
+  "changements": false,
   "alerte": false,
-  "fin": "2026-11-12T16:23:08.064Z"
+  "fin": "2026-11-13T06:14:41.900Z"
 }
