@@ -9,10 +9,8 @@
       "echecsConsecutifs": 0
     },
     "bce": {
-      "dernierSucces": "2026-11-14",
-      "echecsConsecutifs": 1,
-      "derniereErreur": "https://data-api.ecb.europa.eu/service/data/FM/D.U2.EUR.4F.KR.DFR.LEV?lastNObservations=400&format=csvdata : HTTP 503",
-      "derniereErreurLe": "2026-11-15"
+      "dernierSucces": "2026-11-15",
+      "echecsConsecutifs": 0
     },
     "service-public": {
       "dernierSucces": "2026-11-15",
@@ -27,5 +25,5 @@
       "echecsConsecutifs": 0
     }
   },
-  "derniereExecution": "2026-11-15T12:47:24.187Z"
+  "derniereExecution": "2026-11-15T20:26:35.064Z"
 }

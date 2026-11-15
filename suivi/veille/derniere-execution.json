@@ -1,10 +1,10 @@
 {
   "date": "2026-11-15",
-  "debut": "2026-11-15T12:47:13.302Z",
+  "debut": "2026-11-15T20:26:28.814Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
-    "bce": "échec : https://data-api.ecb.europa.eu/service/data/FM/D.U2.EUR.4F.KR.DFR.LEV?lastNObservations=400&format=csvdata : HTTP 503",
+    "bce": "ok",
     "service-public": "ok",
     "service-public-liste": "ok",
     "economie-gouv": "ok"
@@ -12,5 +12,5 @@
   "nouveautes": [],
   "changements": false,
   "alerte": false,
-  "fin": "2026-11-15T12:47:24.187Z"
+  "fin": "2026-11-15T20:26:35.064Z"
 }
