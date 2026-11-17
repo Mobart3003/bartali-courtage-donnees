@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-11-17T14:30:08.925Z",
- "donneesDu": "2026-11-12",
+ "genereLe": "2026-11-17T22:59:13.220Z",
+ "donneesDu": "2026-11-17",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -21,6 +21,13 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-11-17",
+   "titre": "Crédits à la consommation : les règles évoluent pour prévenir le surendettement",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A18451",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Financement"
+  },
   {
    "date": "2026-11-12",
    "titre": "France Identité génère un justificatif d'identité utile pour vos démarches administratives",

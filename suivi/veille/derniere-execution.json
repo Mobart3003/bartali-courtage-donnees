@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "debut": "2026-11-17T14:30:02.098Z",
+  "debut": "2026-11-17T22:59:07.556Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,8 +9,10 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [],
+  "nouveautes": [
+    "2026-11-17 · Crédits à la consommation : les règles évoluent pour prévenir le surendettement"
+  ],
   "changements": true,
   "alerte": false,
-  "fin": "2026-11-17T14:30:08.877Z"
+  "fin": "2026-11-17T22:59:13.173Z"
 }
