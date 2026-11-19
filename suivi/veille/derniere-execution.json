@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "debut": "2026-11-19T14:28:21.954Z",
+  "debut": "2026-11-19T22:41:17.526Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,10 +9,8 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [
-    "2026-11-18 · Une nouvelle aide pour installer une pompe à chaleur : comment en bénéficier ?"
-  ],
-  "changements": true,
+  "nouveautes": [],
+  "changements": false,
   "alerte": false,
-  "fin": "2026-11-19T14:28:29.705Z"
+  "fin": "2026-11-19T22:41:29.279Z"
 }
