@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-11-18T22:37:35.512Z",
- "donneesDu": "2026-11-17",
+ "genereLe": "2026-11-19T14:28:29.757Z",
+ "donneesDu": "2026-11-19",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -21,6 +21,13 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-11-18",
+   "titre": "Une nouvelle aide pour installer une pompe à chaleur : comment en bénéficier ?",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A19085",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Logement"
+  },
   {
    "date": "2026-11-17",
    "titre": "Crédits à la consommation : les règles évoluent pour prévenir le surendettement",
