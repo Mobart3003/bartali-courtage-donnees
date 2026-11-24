@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-11-23T16:03:16.750Z",
- "donneesDu": "2026-11-19",
+ "genereLe": "2026-11-24T02:20:18.753Z",
+ "donneesDu": "2026-11-24",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -22,12 +22,19 @@
   "bce": {
    "valeur": 2.5,
    "depuis": "2026-09-16",
-   "observeLe": "2026-11-17",
+   "observeLe": "2026-11-24",
    "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.fr.html",
-   "expire": "2026-12-08"
+   "expire": "2026-12-15"
   }
  },
  "actualites": [
+  {
+   "date": "2026-11-23",
+   "titre": "Estimez la valeur de votre bien immobilier",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A17761",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Logement"
+  },
   {
    "date": "2026-11-18",
    "titre": "Une nouvelle aide pour installer une pompe à chaleur : comment en bénéficier ?",
