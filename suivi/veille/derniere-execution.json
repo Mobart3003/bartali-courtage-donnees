@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "debut": "2026-11-24T02:20:13.063Z",
+  "debut": "2026-11-24T15:55:56.521Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,10 +9,8 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [
-    "2026-11-23 · Estimez la valeur de votre bien immobilier"
-  ],
-  "changements": true,
+  "nouveautes": [],
+  "changements": false,
   "alerte": false,
-  "fin": "2026-11-24T02:20:18.710Z"
+  "fin": "2026-11-24T15:56:04.546Z"
 }
