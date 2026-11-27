@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genereLe": "2026-11-26T23:54:31.720Z",
- "donneesDu": "2026-11-24",
+ "genereLe": "2026-11-27T15:09:47.427Z",
+ "donneesDu": "2026-11-27",
  "avertissement": "Données nationales indicatives, sans valeur contractuelle. Le taux proposé dépend du profil et du projet.",
  "indicateurs": {
   "tauxMoyen": {
@@ -28,6 +28,13 @@
   }
  },
  "actualites": [
+  {
+   "date": "2026-11-27",
+   "titre": "CAF : le calendrier 2027 des versements de prestations est paru",
+   "lien": "https://www.service-public.gouv.fr/particuliers/actualites/A19160",
+   "source": "Service-Public.gouv.fr",
+   "categorie": "Location"
+  },
   {
    "date": "2026-11-23",
    "titre": "Estimez la valeur de votre bien immobilier",
