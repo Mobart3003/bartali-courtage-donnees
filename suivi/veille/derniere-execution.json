@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "debut": "2026-11-27T15:09:42.089Z",
+  "debut": "2026-11-27T23:32:58.769Z",
   "sources": {
     "tauxMoyen": "ok",
     "usure": "ok",
@@ -9,10 +9,8 @@
     "service-public-liste": "ok",
     "economie-gouv": "ok"
   },
-  "nouveautes": [
-    "2026-11-27 · CAF : le calendrier 2027 des versements de prestations est paru"
-  ],
-  "changements": true,
+  "nouveautes": [],
+  "changements": false,
   "alerte": false,
-  "fin": "2026-11-27T15:09:47.368Z"
+  "fin": "2026-11-27T23:33:04.878Z"
 }
